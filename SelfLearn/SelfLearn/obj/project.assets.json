@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP\\C#00P\\C#00P.csproj",
-      "projectName": "C#00P",
-      "projectPath": "E:\\ASP\\C#00P\\C#00P.csproj",
+      "projectUniqueName": "E:\\ASP\\C#00P\\SelfLearn\\SelfLearn\\SelfLearn.csproj",
+      "projectName": "SelfLearn",
+      "projectPath": "E:\\ASP\\C#00P\\SelfLearn\\SelfLearn\\SelfLearn.csproj",
       "packagesPath": "C:\\Users\\ishan\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP\\C#00P\\obj\\",
+      "outputPath": "E:\\ASP\\C#00P\\SelfLearn\\SelfLearn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ishan\\AppData\\Roaming\\NuGet\\NuGet.Config",

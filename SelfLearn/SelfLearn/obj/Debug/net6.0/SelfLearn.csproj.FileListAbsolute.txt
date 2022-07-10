@@ -1,0 +1,15 @@
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\SelfLearn.exe
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\SelfLearn.deps.json
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\SelfLearn.runtimeconfig.json
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\SelfLearn.dll
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\ref\SelfLearn.dll
+E:\ASP\C#00P\SelfLearn\SelfLearn\bin\Debug\net6.0\SelfLearn.pdb
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.csproj.AssemblyReference.cache
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.AssemblyInfoInputs.cache
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.AssemblyInfo.cs
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.csproj.CoreCompileInputs.cache
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.dll
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\ref\SelfLearn.dll
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.pdb
+E:\ASP\C#00P\SelfLearn\SelfLearn\obj\Debug\net6.0\SelfLearn.genruntimeconfig.cache
