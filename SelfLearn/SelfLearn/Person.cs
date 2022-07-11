@@ -14,10 +14,27 @@ namespace SelfLearn
         private int weight;
         private double salary;
 
+        //default constructor
+        public Person()
+        {
+
+        }
+        //parameterized constructor
+        public Person(string name,int age ,int height,int weight,double salary)
+        {
+            this.name = name;
+            this.age = age;
+            this.Height = height;
+            this.Weight = weight;
+            this.Salary = salary;
+
+        }
+
         public int Height { get => height; set => height = value; }
         public int Weight { get => weight; set => weight = value; }
         public double Salary { get => salary; set => salary = value; }
 
+       
         public void PrintPersonInfor()
         {
             Console.WriteLine("Person Name " + name);
